@@ -2,7 +2,7 @@ const fs = require('fs');
 
 // 1. HARDCODED SECRET (Secreto expuesto)
 // Snyk Code debería detectar que estás guardando credenciales en texto plano.
-const AWS_SECRET_KEY = "AKIAIOSFODNN7EXAMPLE-SUPER-SECRET-KEY";
+const AWS_SECRET_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
 
 export function leerArchivoInseguro(req, res) {
     const userFolder = req.query.folder;
