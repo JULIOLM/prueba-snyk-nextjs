@@ -2,7 +2,7 @@
   "name": "prueba-snyk",
   "version": "1.0.0",
   "dependencies": {
-    "next": "13.0.0",
-    "axios": "0.21.1"
+    "next": "13.5.11",
+    "axios": "0.21.3"
   }
 }
