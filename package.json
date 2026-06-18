@@ -1,0 +1,8 @@
+{
+  "name": "prueba-snyk",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "13.0.0",
+    "axios": "0.21.1"
+  }
+}
